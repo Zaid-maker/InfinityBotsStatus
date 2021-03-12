@@ -46,6 +46,25 @@ status-website:
     - title: Twitter
       href: https://twitter.com/InfinityBotList
 
+commitMessages:
+  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+
+commitMessages:
+  commitAuthorName: "Infinity Status Bot"
+  commitAuthorEmail: "support@infinitybots.xyz"
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 i18n:
   footer: Made with ❤️ By Toxic Dev | All Rights Reserved
   url: "URL"
