@@ -36,7 +36,7 @@ status-website:
   introMessage: Real Time status updates for all of our Available Services.
   navbar:
     - title: Discord
-      href: https://infinitybots.xyz/discord
+      href: https://discord.gg/MCydkq2F
     - title: Twitter
       href: https://twitter.com/InfinityBotList
 
@@ -48,7 +48,7 @@ i18n:
   responseTime: "Response Time"
   uptime: "Uptime"
   responseTimeGraphAlt: "Response time graph"
-  allSystemsOperational: "🟩 All systems operational"
-  degradedPerformance: "🟨 Degraded performance"
-  completeOutage: "🟥 Complete outage"
-  partialOutage: "🟧 Partial outage"
+  allSystemsOperational: "All systems operational"
+  degradedPerformance: "Degraded performance"
+  completeOutage: "Major Outage"
+  partialOutage: "Minor outage"
