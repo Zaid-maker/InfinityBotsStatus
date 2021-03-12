@@ -17,7 +17,6 @@ status-website:
   name: Infinity Bots
   introTitle: "**Infinity Bot List Status**."
   introMessage: Real Time status updates for all of our Available Services.
-  customBodyHtml: ""
   navbar:
     - title: Discord
       href: https://infinitybots.xyz/discord
