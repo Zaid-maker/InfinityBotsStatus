@@ -4,8 +4,8 @@ repo: StatusPage # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Main Site
+    url: https://infinitybots.xyz
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
