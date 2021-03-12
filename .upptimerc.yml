@@ -17,11 +17,9 @@ status-website:
   name: Infinity Bots
   introTitle: "**Infinity Bot List Status**."
   introMessage: Real Time status updates for all of our Available Services.
-  customBodyHtml: "<footer class=svelte-jbr799><p>Made with ❤️ By: <a href="https://toxicdev.me">Toxic Dev</a> | All Rights Reserved</p> </footer>"
+  customBodyHtml: ""
   navbar:
     - title: Discord
       href: https://infinitybots.xyz/discord
     - title: Twitter
       href: https://twitter.com/InfinityBotList
-    - title: GitHub
-      href: https://github.com/InfinityBotList
