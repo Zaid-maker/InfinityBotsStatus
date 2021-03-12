@@ -22,6 +22,12 @@ sites:
     url: https://tickets.infinitybots.xyz
   - name: Transcript API
     url: https://api.tickets.infinitybots.xyz/api/v1/get/13996274
+  - name: Staff Panel
+    url: https://infinitybots.xyz/panel
+  - name: Queue Panel
+    url: https://infinitybots.xyz/panel/queue
+  - name: Certification Panel
+    url: https://infinitybots.xyz/panel/certification
 
 
 
