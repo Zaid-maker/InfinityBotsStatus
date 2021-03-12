@@ -30,7 +30,7 @@ status-website:
   theme: night
   cname: status.infinitybots.xyz
   # baseUrl: /InfinityBotsStatus
-  logoUrl: https://cdn.infinitybots.xyz/images/gif/InfinityBots.gif
+  logoUrl: https://cdn.infinitybots.xyz/images/png/InfinityOld.png
   name: Infinity Bots
   introTitle: "**Infinity Bot List Status**."
   introMessage: Real Time status updates for all of our Available Services.
