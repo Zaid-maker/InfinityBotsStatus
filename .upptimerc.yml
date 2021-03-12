@@ -28,8 +28,8 @@ sites:
 status-website:
   favicon: https://cdn.infinitybots.xyz/images/png/InfinityOld.png
   theme: night
-  # cname: demo.upptime.js.org
-  baseUrl: /InfinityBotsStatus
+  cname: status.infinitybots.xyz
+  # baseUrl: /InfinityBotsStatus
   logoUrl: https://cdn.infinitybots.xyz/images/gif/InfinityBots.gif
   name: Infinity Bots
   introTitle: "**Infinity Bot List Status**."
