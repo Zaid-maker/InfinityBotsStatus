@@ -6,14 +6,31 @@ repo: InfinityBotsStatus # Your GitHub repository name
 sites:
   - name: API
     url: https://api.infinitybots.xyz
+  - name: CDN Storage
+    url: https://cdn.infinitybots.xyz
+  - name: Cloudflare
+    url: https://cloudflare.com
+  - name: Docs Site
+    url: https://docs.infinitybots.xyz
+  - name: Guide Site
+    url: https://guide.infinitybots.xyz
   - name: Main Site
     url: https://infinitybots.xyz
+  - name: Short Domains
+    url: https://botlist.site
+  - name: Ticket Transcripts
+    url: https://tickets.infinitybots.xyz
+  - name: Transcript API
+    url: https://api.tickets.infinitybots.xyz
+
+
 
 status-website:
+  favicon: https://cdn.infinitybots.xyz/images/png/InfinityOld.png
   theme: night
   # cname: demo.upptime.js.org
   baseUrl: /InfinityBotsStatus
-  logoUrl: https://media.discordapp.net/attachments/734686866690932767/817198822035554314/image0.png
+  logoUrl: https://cdn.infinitybots.xyz/images/gif/InfinityBots.gif
   name: Infinity Bots
   introTitle: "**Infinity Bot List Status**."
   introMessage: Real Time status updates for all of our Available Services.
@@ -24,4 +41,29 @@ status-website:
       href: https://twitter.com/InfinityBotList
 
 i18n:
-   footer: Made with ❤️ By Toxic Dev | All Rights Reserved
+  footer: Made with ❤️ By Toxic Dev | All Rights Reserved
+  url: "URL"
+  status: "Status"
+  history: "History"
+  responseTime: "Response Time"
+  uptime: "Uptime"
+  up: "🟩 Up"
+  degraded: "🟨 Degraded"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Response time graph"
+  ms: "ms"
+  responseTime: "Response time"
+  responseTimeDay: "24-hour response time"
+  responseTimeWeek: "7-day response time"
+  responseTimeMonth: "30-day response time"
+  responseTimeYear: "1-year response time"
+  uptime: "All-time uptime"
+  uptimeDay: "24-hour uptime"
+  uptimeWeek: "7-day uptime"
+  uptimeMonth: "30-day uptime"
+  uptimeYear: "1-year uptime"
+  liveStatus: "Live Status"
+  allSystemsOperational: "🟩 All systems operational"
+  degradedPerformance: "🟨 Degraded performance"
+  completeOutage: "🟥 Complete outage"
+  partialOutage: "🟧 Partial outage"
