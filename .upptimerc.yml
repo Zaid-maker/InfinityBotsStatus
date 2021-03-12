@@ -4,24 +4,23 @@ repo: InfinityBotsStatus # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: API
+    url: https://api.infinitybots.xyz
   - name: Main Site
     url: https://infinitybots.xyz
 
 status-website:
   theme: night
-  # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /InfinityBotsStatus
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://media.discordapp.net/attachments/734686866690932767/817198822035554314/image0.png
+  name: Infinity Bots
+  introTitle: "**Infinity Bot List Status**."
+  introMessage: Real Time status updates for all of our Available Services.
   navbar:
-    - title: Status
-      href: /
+    - title: Discord
+      href: https://infinitybots.xyz/discord
+    - title: Twitter
+      href: https://twitter.com/InfinityBotList
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/InfinityBotList
