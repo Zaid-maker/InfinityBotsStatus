@@ -1,7 +1,7 @@
 url: https://infinitybots.xyz/panel
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2021-03-12T23:16:40.106Z
+status: down
+code: 503
+responseTime: 37
+lastUpdated: 2021-03-13T06:57:20.867Z
 startTime: Fri Mar 12 2021 07:28:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
