@@ -17,7 +17,7 @@ sites:
   - name: Main Site
     url: https://infinitybots.xyz
   - name: Short Domains
-    url: https://botlist.site
+    url: https://ibl.rocks
   - name: Ticket Transcripts
     url: https://tickets.infinitybots.xyz
   - name: Transcript API
