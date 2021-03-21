@@ -34,7 +34,7 @@ sites:
 status-website:
   favicon: https://cdn.infinitybots.xyz/images/png/InfinityOld.png
   theme: night
-  cname: status.infinitybots.xyz
+  cname: status.infinitybotlist.com
   # baseUrl: /InfinityBotsStatus
   logoUrl: https://cdn.infinitybots.xyz/images/png/InfinityOld.png
   name: Infinity Bots
