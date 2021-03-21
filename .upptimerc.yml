@@ -5,17 +5,17 @@ repo: InfinityBotsStatus # Your GitHub repository name
 # Add your sites here
 sites:
   - name: API
-    url: https://api.infinitybots.xyz
+    url: https://api.infinitybotlist.com
   - name: CDN Storage
-    url: https://cdn.infinitybots.xyz
+    url: https://cdn.infinitybotlist.com
   - name: Cloudflare
     url: https://cloudflare.com
   - name: Docs Site
-    url: https://docs.infinitybots.xyz
+    url: https://docs.infinitybotlist.com
   - name: Guide Site
-    url: https://guide.infinitybots.xyz
+    url: https://guide.infinitybotlist.com
   - name: Main Site
-    url: https://infinitybots.xyz
+    url: https://infinitybotlist.com
   - name: Short Domains
     url: https://ibl.rocks
   - name: Ticket Transcripts
@@ -23,11 +23,11 @@ sites:
   - name: Transcript API
     url: https://api.tickets.infinitybots.xyz/api/v1/get/13996274
   - name: Staff Panel
-    url: https://infinitybots.xyz/panel
+    url: https://infinitybotlist.com/panel
   - name: Queue Panel
-    url: https://infinitybots.xyz/panel/queue
+    url: https://infinitybotlist.com/panel/queue
   - name: Certification Panel
-    url: https://infinitybots.xyz/panel/certification
+    url: https://infinitybotlist.com/panel/certification
 
 
 
