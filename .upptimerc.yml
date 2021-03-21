@@ -7,7 +7,7 @@ sites:
   - name: API
     url: https://api.infinitybotlist.com
   - name: CDN Storage
-    url: https://cdn.infinitybotlist.com
+    url: https://cdn.infinitybots.xyz
   - name: Cloudflare
     url: https://cloudflare.com
   - name: Docs Site
