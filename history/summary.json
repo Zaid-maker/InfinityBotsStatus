@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 857,
     "timeDay": 15968,
-    "timeWeek": 1918,
+    "timeWeek": 2142,
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 541,
-    "timeWeek": 513,
+    "timeWeek": 542,
     "timeMonth": 456,
     "timeYear": 456,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "url": "https://tickets.infinitybots.xyz",
     "icon": "https://favicons.githubusercontent.com/tickets.infinitybots.xyz",
     "slug": "ticket-transcripts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
