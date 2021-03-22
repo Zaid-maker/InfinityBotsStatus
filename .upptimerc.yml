@@ -19,7 +19,7 @@ sites:
   - name: Short Domains
     url: https://ibl.rocks
   - name: Ticket Transcripts
-    url: https://tickets.infinitybots.xyz
+    url: https://tickets.supportbot.site
   - name: Transcript API
     url: https://api.tickets.infinitybots.xyz/api/v1/get/13996274
   - name: Staff Panel
