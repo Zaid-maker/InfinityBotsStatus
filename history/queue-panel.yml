@@ -1,7 +1,7 @@
 url: https://infinitybotlist.com/panel/queue
-status: up
-code: 200
-responseTime: 2596
-lastUpdated: 2021-03-25T23:49:21.948Z
+status: down
+code: 503
+responseTime: 23
+lastUpdated: 2021-03-26T00:00:46.044Z
 startTime: Fri Mar 12 2021 07:28:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
