@@ -21,7 +21,7 @@ sites:
   - name: Ticket Transcripts
     url: https://tickets.supportbot.site
   - name: Transcript API
-    url: https://api.tickets.infinitybots.xyz/api/v1/get/13996274
+    url: https://api.tickets.supportbot.site/api/v1/get/13996274
   - name: Staff Panel
     url: https://infinitybotlist.com/panel
   - name: Queue Panel
