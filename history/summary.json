@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/api.infinitybotlist.com",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.14%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
     "time": 652,
     "timeDay": 94,
     "timeWeek": 203,
     "timeMonth": 652,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "CDN Storage",
@@ -23,17 +26,20 @@
     "icon": "https://favicons.githubusercontent.com/cdn.infinitybots.xyz",
     "slug": "cdn-storage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 1524,
     "timeDay": 110,
-    "timeWeek": 3040,
+    "timeWeek": 3156,
     "timeMonth": 1524,
     "timeYear": 1524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Cloudflare",
@@ -41,17 +47,20 @@
     "icon": "https://favicons.githubusercontent.com/cloudflare.com",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 241,
     "timeDay": 252,
     "timeWeek": 234,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Docs Site",
@@ -77,17 +86,20 @@
     "icon": "https://favicons.githubusercontent.com/guide.infinitybotlist.com",
     "slug": "guide-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Main Site",
@@ -95,35 +107,40 @@
     "icon": "https://favicons.githubusercontent.com/infinitybotlist.com",
     "slug": "main-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.37%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "96.37%",
     "time": 416,
     "timeDay": 85,
-    "timeWeek": 652,
+    "timeWeek": 663,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929
+    }
   },
   {
     "name": "Short Domains",
     "url": "https://ibl.rocks",
     "icon": "https://favicons.githubusercontent.com/ibl.rocks",
     "slug": "short-domains",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1612,
-    "timeDay": 258,
-    "timeWeek": 2725,
-    "timeMonth": 1612,
-    "timeYear": 1612,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
+    "time": 1570,
+    "timeDay": 287,
+    "timeWeek": 2571,
+    "timeMonth": 1570,
+    "timeYear": 1570,
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Ticket Transcripts",
@@ -131,17 +148,20 @@
     "icon": "https://favicons.githubusercontent.com/tickets.supportbot.site",
     "slug": "ticket-transcripts",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 203,
     "timeDay": 108,
     "timeWeek": 183,
     "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Transcript API",
@@ -149,17 +169,20 @@
     "icon": "https://favicons.githubusercontent.com/api.tickets.supportbot.site",
     "slug": "transcript-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 200,
     "timeDay": 0,
     "timeWeek": 287,
     "timeMonth": 200,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Staff Panel",
@@ -167,17 +190,20 @@
     "icon": "https://favicons.githubusercontent.com/infinitybotlist.com",
     "slug": "staff-panel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 1635,
     "timeDay": 18,
-    "timeWeek": 2456,
+    "timeWeek": 2528,
     "timeMonth": 1635,
     "timeYear": 1635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Queue Panel",
@@ -185,17 +211,20 @@
     "icon": "https://favicons.githubusercontent.com/infinitybotlist.com",
     "slug": "queue-panel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 917,
     "timeDay": 15,
-    "timeWeek": 1395,
+    "timeWeek": 1438,
     "timeMonth": 917,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   },
   {
     "name": "Certification Panel",
@@ -203,16 +232,19 @@
     "icon": "https://favicons.githubusercontent.com/infinitybotlist.com",
     "slug": "certification-panel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.12%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 1484,
     "timeDay": 17,
-    "timeWeek": 2200,
+    "timeWeek": 2293,
     "timeMonth": 1484,
     "timeYear": 1484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-29": 929,
+      "2021-03-12": 55
+    }
   }
 ]
