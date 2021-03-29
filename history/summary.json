@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1524,
     "timeDay": 110,
-    "timeWeek": 2908,
+    "timeWeek": 3040,
     "timeMonth": 1524,
     "timeYear": 1524,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 85,
-    "timeWeek": 622,
+    "timeWeek": 652,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {}
@@ -112,17 +112,17 @@
     "url": "https://ibl.rocks",
     "icon": "https://favicons.githubusercontent.com/ibl.rocks",
     "slug": "short-domains",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1663,
-    "timeDay": 268,
-    "timeWeek": 2917,
-    "timeMonth": 1663,
-    "timeYear": 1663,
+    "time": 1612,
+    "timeDay": 258,
+    "timeWeek": 2725,
+    "timeMonth": 1612,
+    "timeYear": 1612,
     "dailyMinutesDown": {}
   },
   {
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 108,
-    "timeWeek": 178,
+    "timeWeek": 183,
     "timeMonth": 203,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1635,
     "timeDay": 18,
-    "timeWeek": 2337,
+    "timeWeek": 2456,
     "timeMonth": 1635,
     "timeYear": 1635,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 917,
     "timeDay": 15,
-    "timeWeek": 1329,
+    "timeWeek": 1395,
     "timeMonth": 917,
     "timeYear": 917,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 1484,
     "timeDay": 17,
-    "timeWeek": 2095,
+    "timeWeek": 2200,
     "timeMonth": 1484,
     "timeYear": 1484,
     "dailyMinutesDown": {}
