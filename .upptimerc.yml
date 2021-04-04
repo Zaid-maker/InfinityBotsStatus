@@ -1,35 +1,11 @@
 # Change these first!!
-owner: TheRealToxicDev # Your GitHub username
+owner: Zaid-maker # Your GitHub username
 repo: InfinityBotsStatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: API
-    url: https://api.infinitybotlist.com
-  - name: CDN Storage
-    url: https://cdn.infinitybots.xyz
-  - name: Cloudflare
-    url: https://cloudflare.com
-  - name: Docs Site
-    url: https://docs.infinitybotlist.com
-  - name: Guide Site
-    url: https://guide.infinitybotlist.com
   - name: Main Site
-    url: https://infinitybotlist.com
-  - name: Short Domains
-    url: https://ibl.rocks
-  - name: Ticket Transcripts
-    url: https://tickets.supportbot.site
-  - name: Transcript API
-    url: https://api.tickets.supportbot.site/api/v1/get/13996274
-  - name: Staff Panel
-    url: https://infinitybotlist.com/panel
-  - name: Queue Panel
-    url: https://infinitybotlist.com/panel/queue
-  - name: Certification Panel
-    url: https://infinitybotlist.com/panel/certification
-
-
+    url: https://cyclonebots.xy
 
 status-website:
   favicon: https://cdn.infinitybots.xyz/images/png/InfinityOld.png
